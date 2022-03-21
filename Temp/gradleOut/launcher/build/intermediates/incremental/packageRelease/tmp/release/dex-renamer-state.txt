@@ -1,0 +1,4 @@
+#Mon Mar 21 11:36:49 KGT 2022
+base.0=/Users/ormonalikaarov/Documents/unity/My project/Temp/gradleOut/launcher/build/intermediates/dex/release/mergeDexRelease/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
